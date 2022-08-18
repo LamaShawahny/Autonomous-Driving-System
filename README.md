@@ -6,10 +6,12 @@ automatic car is an automobile with an automatic transmission that doesn't requi
 
 Our Algorithim Description: 
 
-1) In our algorithm we designed the path by providing it with points that determine our road sides.
-
-2) after that we define the properties for each vehicle we are willing to use, such as color, speed and the points that the vehicle 
-will go across. 
-
-3) When our simulation starts the vehicles start moving and collecting data from its environment 
-thus reacting accordingly.
+- we use a reference path and dynamic list of obstacles to generate alternative
+ trajectories for an ego vehicle.
+ 
+- The ego vehicle navigates through traffic defined in a provided driving scenario
+- we define the properties for each vehicle we are willing to use, such as color, speed and the points
+  that the vehicle will go across. 
+- When our simulation starts the vehicles start moving and collecting data from its environment 
+  thus reacting accordingly.
+![image](https://user-images.githubusercontent.com/74476764/185381485-6dc6ed20-6e1d-49bc-82d3-508bfc2bfbfe.png)
