@@ -14,4 +14,3 @@ Our Algorithim Description:
   that the vehicle will go across. 
 - When our simulation starts the vehicles start moving and collecting data from its environment 
   thus reacting accordingly.
-![image](https://user-images.githubusercontent.com/74476764/185381485-6dc6ed20-6e1d-49bc-82d3-508bfc2bfbfe.png)
