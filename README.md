@@ -1,5 +1,8 @@
 # Autonomous-Driving-System
 
+<img width="437" alt="Screen Shot 2022-08-18 at 14 38 20" src="https://user-images.githubusercontent.com/74476764/185386000-fd38f4ae-beed-407b-8962-d1d20797e2b5.png">
+
+
 What is an Automatic Car?
 automatic car is an automobile with an automatic transmission that doesn't require a driver to shift gears manually. Transmissions, also known as gearboxes, help to direct the rotational force and speed of a car. Therefore, automatic transmissions switch gear ratios as the vehicle moves. An automatic transmission uses sensors that allow it to shift gears at the appropriate time by using the internal oil pressure. Shifting gears happens when the transmission is disconnected from the engine temporarily, which is handled by the torque converter.
 
